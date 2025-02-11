@@ -1,6 +1,6 @@
 Weather App
 
-A clean and user-friendly weather app that provides real-time weather updates for any location. Built with React and OpenWeather API.
+A clean and user-friendly weather app that provides real-time weather updates for any location. Built with HTML, CSS, Javascript and OpenWeather API.
 
 Key Features:
 
